@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[The Polyglot Problem Solver]]></title>
   <link href="http://apgeorge.github.io/atom.xml" rel="self"/>
   <link href="http://apgeorge.github.io/"/>
-  <updated>2014-01-30T23:40:15+05:30</updated>
+  <updated>2014-02-09T23:50:13+05:30</updated>
   <id>http://apgeorge.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Aroj George]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
